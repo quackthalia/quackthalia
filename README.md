@@ -77,6 +77,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quackthalia&theme=transparent&stroke=3fa1fc&fire=3fa1fc&ring=3fa1fc&currStreakLabel=3fa1fc&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quackthalia&bg_color=00000000&color=3fa1fc&line=3fa1fc&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
 <hr>
 
 

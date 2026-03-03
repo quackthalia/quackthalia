@@ -72,3 +72,8 @@
 </p>
 
 <hr>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quackthalia&show_icons=true&theme=transparent&title_color=e3686a&text_color=7d7d7d&icon_color=e3686a&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quackthalia&layout=compact&theme=transparent&title_color=e3686a&text_color=7d7d7d&icon_color=e3686a&hide_border=true" />
+</p>

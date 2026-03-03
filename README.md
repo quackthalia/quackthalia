@@ -34,7 +34,7 @@
   🌱 Status     : Exploring Frontend & RPA
 
   🤖 RPA        : Blue Prism
-  🐍 Languages  : Python (Pandas, Matplotlib, Seaborn & Pyautogui), DAX
+  🐍 Languages  : Python (Pandas, Numpy, Matplotlib, Seaborn & Pyautogui), DAX
   📖 Learning   : HTML/CSS, Javascript, C++
   🛠️ Tools      : VS Code (Elegant Red Theme), Power BI, Figma, Git, Obisidian
 
@@ -74,6 +74,18 @@
 <hr>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quackthalia&show_icons=true&theme=transparent&title_color=e3686a&text_color=7d7d7d&icon_color=e3686a&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quackthalia&layout=compact&theme=transparent&title_color=e3686a&text_color=7d7d7d&icon_color=e3686a&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quackthalia&theme=transparent&stroke=3fa1fc&fire=3fa1fc&ring=3fa1fc&currStreakLabel=3fa1fc&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </p>
+
+<hr>
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314jkgqlk27p6jopcnm63byzg3ki&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=314jkgqlk27p6jopcnm63byzg3ki&redirect=true)
+---
+<hr>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BarDeyvid/BarDeyvid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BarDeyvid/BarDeyvid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BarDeyvid/BarDeyvid/output/github-contribution-grid-snake.svg">
+</picture>

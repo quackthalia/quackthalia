@@ -89,7 +89,7 @@
 <hr>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BarDeyvid/BarDeyvid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BarDeyvid/BarDeyvid/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BarDeyvid/BarDeyvid/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quackthalia/quackthalia/output/github-contribution-grid-snake.svg?color_snake=3fa1fc&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quackthalia/quackthalia/output/github-contribution-grid-snake.svg?color_snake=3fa1fc&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quackthalia/quackthalia/output/github-contribution-grid-snake.svg?color_snake=3fa1fc">
 </picture>

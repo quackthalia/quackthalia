@@ -35,11 +35,11 @@
 
   🤖 RPA        : Blue Prism
   🐍 Languages  : Python (Pandas, Numpy, Matplotlib, Seaborn & Pyautogui), DAX
-  📖 Learning   : HTML/CSS, Javascript, C++
-  🛠️ Tools      : VS Code (Elegant Red Theme), Power BI, Figma, Git, Obisidian
+  📖 Learning   : HTML/CSS, Javascript, C++, React
+  🛠️ Tools      : VS Code (Elegant Red Theme), Power BI, Figma, Git, Obisidian, Dremio
 
   🎨 Hobbies    : Gaming, Reading, Drawing, RPG
-  ✨ Fun Fact   : Paranormal Order Player, all is well if it ends well
+  ✨ Fun Fact   : Paranormal Order Player. All is well if it ends well. My taste in ficional men is terrible.
   👾 Discord    : beazita
 
   ────────────── ✌︎㋡ ──────────────

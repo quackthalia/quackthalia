@@ -30,16 +30,15 @@
   ⚧  Pronouns   : She/her
   🌎 Languages  : 🇧🇷/🇺🇸
   📍 Location   : Jaraguá do Sul, SC
-  🏫 University : Centro Universitário - Católica
-  🌱 Status     : Exploring Frontend & RPA
+  🏫 University : UniSociesc
+  🌱 Status     : Exploring Frontend & Data Analytics
 
-  🤖 RPA        : Blue Prism
-  🐍 Languages  : Python (Pandas, Numpy, Matplotlib, Seaborn & Pyautogui), DAX
-  📖 Learning   : HTML/CSS, Javascript, C++, React
-  🛠️ Tools      : VS Code (Elegant Red Theme), Power BI, Figma, Git, Obisidian, Dremio
+  🐍 Languages  : Python (Pandas, Numpy, Matplotlib, Seaborn & Pyautogui), DAX, React
+  📖 Learning   : HTML/CSS, Javascript, C++, Java
+  🛠️ Tools      : VS Code (Elegant Red Theme), Power BI, Figma, Git, Obisidian, Dremio, Success Factors
 
   🎨 Hobbies    : Gaming, Reading, Drawing, RPG
-  ✨ Fun Fact   : Paranormal Order Player. All is well if it ends well. My taste in ficional men is terrible.
+  ✨ Fun Fact   : Paranormal Order Player. All is well if it ends well.
   👾 Discord    : beazita
 
   ────────────── ✌︎㋡ ──────────────
